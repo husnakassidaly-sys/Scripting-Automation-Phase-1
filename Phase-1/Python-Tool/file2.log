@@ -1,0 +1,16 @@
+2026-10-12 07:00:00 INFO System started successfully
+2026-10-12 07:10:00 INFO User logged in
+2026-10-12 07:20:00 WARNING Disk space is low
+2026-10-12 07:30:00 INFO Database connection established
+2026-10-12 07:40:00 ERROR Failed to open file
+2026-10-12 07:50:00 WARNING Multiple failed login attempts
+2026-10-12 08:00:00 INFO User profile updated
+2026-10-12 08:10:00 ERROR Database connection failed
+2026-10-12 08:20:00 INFO Backup completed
+2026-10-12 08:30:00 WARNING High memory usage detected
+2026-10-12 08:40:00 WARNING CPU usage is high
+2026-10-12 08:50:00 WARNING Unusual login activity detected
+2026-10-12 09:00:00 WARNING Too many login attempts
+2026-10-12 09:10:00 WARNING Slow server response
+2026-10-12 09:20:00 WARNING Unusual network traffic
+2026-10-12 09:30:00 WARNING Failed backup attempt
